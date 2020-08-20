@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-profile/static/css/main.0d18a30d.chunk.css",
-    "main.js": "/my-profile/static/js/main.fe17cb80.chunk.js",
-    "main.js.map": "/my-profile/static/js/main.fe17cb80.chunk.js.map",
+    "main.css": "/my-profile/static/css/main.5642df9f.chunk.css",
+    "main.js": "/my-profile/static/js/main.0fbadb02.chunk.js",
+    "main.js.map": "/my-profile/static/js/main.0fbadb02.chunk.js.map",
     "runtime-main.js": "/my-profile/static/js/runtime-main.58046206.js",
     "runtime-main.js.map": "/my-profile/static/js/runtime-main.58046206.js.map",
     "static/js/2.a7d2501c.chunk.js": "/my-profile/static/js/2.a7d2501c.chunk.js",
     "static/js/2.a7d2501c.chunk.js.map": "/my-profile/static/js/2.a7d2501c.chunk.js.map",
     "index.html": "/my-profile/index.html",
-    "precache-manifest.674f218d90dd8daf6590bdad44077989.js": "/my-profile/precache-manifest.674f218d90dd8daf6590bdad44077989.js",
+    "precache-manifest.2c7011e77d6a7081d8f5f4188b713ddb.js": "/my-profile/precache-manifest.2c7011e77d6a7081d8f5f4188b713ddb.js",
     "service-worker.js": "/my-profile/service-worker.js",
-    "static/css/main.0d18a30d.chunk.css.map": "/my-profile/static/css/main.0d18a30d.chunk.css.map",
+    "static/css/main.5642df9f.chunk.css.map": "/my-profile/static/css/main.5642df9f.chunk.css.map",
     "static/js/2.a7d2501c.chunk.js.LICENSE.txt": "/my-profile/static/js/2.a7d2501c.chunk.js.LICENSE.txt",
     "static/media/apple-moneybank.jpg": "/my-profile/static/media/apple-moneybank.ced50326.jpg",
     "static/media/bhutan-hike.jpeg": "/my-profile/static/media/bhutan-hike.b4a4014f.jpeg",
@@ -25,7 +25,7 @@
     "static/media/kashmir-hike.jpg": "/my-profile/static/media/kashmir-hike.9b6a74fc.jpg",
     "static/media/leh-snowclad-mountains.jpeg": "/my-profile/static/media/leh-snowclad-mountains.a2b6d60d.jpeg",
     "static/media/milky-way.jpeg": "/my-profile/static/media/milky-way.d4960cba.jpeg",
-    "static/media/my-photo.png": "/my-profile/static/media/my-photo.67b00c67.png",
+    "static/media/my-photo.png": "/my-profile/static/media/my-photo.d06350bb.png",
     "static/media/mysore-palace.jpeg": "/my-profile/static/media/mysore-palace.ea2bf77d.jpeg",
     "static/media/palace-of-fine-arts.jpeg": "/my-profile/static/media/palace-of-fine-arts.c8f16a13.jpeg",
     "static/media/pune-sunset.jpeg": "/my-profile/static/media/pune-sunset.741ce5f7.jpeg",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.58046206.js",
     "static/js/2.a7d2501c.chunk.js",
-    "static/css/main.0d18a30d.chunk.css",
-    "static/js/main.fe17cb80.chunk.js"
+    "static/css/main.5642df9f.chunk.css",
+    "static/js/main.0fbadb02.chunk.js"
   ]
 }
